@@ -7,6 +7,7 @@ Installation: Download the files, keep note on the file path of the Weka models 
 
 Demo: Two image files for Demo; Cell surface and mito. The macro for other organelles work in a very similar way.
       When running the macro on demo files, you sould expect segmentation of the target organelle and G, R values of the segmented organelle in the 'Results' window. i.e.) if you make 5       ROIs, the results window will show 5 G values and 5 R values.
+      The expected runtime is under 3 mins.
 
 
 Instructions for Use
